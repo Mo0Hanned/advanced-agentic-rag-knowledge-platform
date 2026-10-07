@@ -1,5 +1,4 @@
-# Advanced Agentic Rag: Multi-User, Multi-Domain Agentic Knowledge Platform
-
+# Advanced-agentic-RAG-knowledge-platform
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
